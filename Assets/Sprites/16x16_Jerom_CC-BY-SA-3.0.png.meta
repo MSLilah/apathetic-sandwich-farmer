@@ -1,59 +1,59 @@
 fileFormatVersion: 2
 guid: 3ff57af6d057044d293d9d4d2f957d14
-timeCreated: 1451514477
+timeCreated: 1451519426
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: 16x16_Jerom_CC-BY-SA-3.0_0
-    21300002: 16x16_Jerom_CC-BY-SA-3.0_1
-    21300004: 16x16_Jerom_CC-BY-SA-3.0_2
-    21300006: 16x16_Jerom_CC-BY-SA-3.0_3
-    21300008: 16x16_Jerom_CC-BY-SA-3.0_4
-    21300010: 16x16_Jerom_CC-BY-SA-3.0_5
-    21300012: 16x16_Jerom_CC-BY-SA-3.0_6
-    21300014: 16x16_Jerom_CC-BY-SA-3.0_7
-    21300016: 16x16_Jerom_CC-BY-SA-3.0_8
-    21300018: 16x16_Jerom_CC-BY-SA-3.0_9
+    21300000: Door_1
+    21300002: Door_2
+    21300004: Door_3
+    21300006: Door_Open_1
+    21300008: Door_Lock_1
+    21300010: Door_Open_2
+    21300012: Door_4
+    21300014: Door_4_Open
+    21300016: Door_Lock_2
+    21300018: Door_Lock_2_Open
     21300020: 16x16_Jerom_CC-BY-SA-3.0_10
     21300022: 16x16_Jerom_CC-BY-SA-3.0_11
-    21300024: 16x16_Jerom_CC-BY-SA-3.0_12
-    21300026: 16x16_Jerom_CC-BY-SA-3.0_13
-    21300028: 16x16_Jerom_CC-BY-SA-3.0_14
-    21300030: 16x16_Jerom_CC-BY-SA-3.0_15
-    21300032: 16x16_Jerom_CC-BY-SA-3.0_16
-    21300034: 16x16_Jerom_CC-BY-SA-3.0_17
-    21300036: 16x16_Jerom_CC-BY-SA-3.0_18
-    21300038: 16x16_Jerom_CC-BY-SA-3.0_19
-    21300040: 16x16_Jerom_CC-BY-SA-3.0_20
-    21300042: 16x16_Jerom_CC-BY-SA-3.0_21
-    21300044: 16x16_Jerom_CC-BY-SA-3.0_22
-    21300046: 16x16_Jerom_CC-BY-SA-3.0_23
-    21300048: 16x16_Jerom_CC-BY-SA-3.0_24
-    21300050: 16x16_Jerom_CC-BY-SA-3.0_25
-    21300052: 16x16_Jerom_CC-BY-SA-3.0_26
-    21300054: 16x16_Jerom_CC-BY-SA-3.0_27
-    21300056: 16x16_Jerom_CC-BY-SA-3.0_28
-    21300058: 16x16_Jerom_CC-BY-SA-3.0_29
-    21300060: 16x16_Jerom_CC-BY-SA-3.0_30
-    21300062: 16x16_Jerom_CC-BY-SA-3.0_31
-    21300064: 16x16_Jerom_CC-BY-SA-3.0_32
-    21300066: 16x16_Jerom_CC-BY-SA-3.0_33
-    21300068: 16x16_Jerom_CC-BY-SA-3.0_34
-    21300070: 16x16_Jerom_CC-BY-SA-3.0_35
+    21300024: Wall_1
+    21300026: Stairs_1
+    21300028: Stairs_2
+    21300030: Floor_1
+    21300032: Stone_Floor1
+    21300034: Stone_Floor_2
+    21300036: Spikes
+    21300038: Floor_Tile
+    21300040: Wall_Upper_Left
+    21300042: Wall_Upper
+    21300044: Wall_Upper_Right
+    21300046: Wall_Inner_Top_Left
+    21300048: Wall_Inner_Top_Right
+    21300050: Floor_Square_Dark
+    21300052: Floor_Square_Light
+    21300054: Floor_2
+    21300056: Floor_Circular_Dark
+    21300058: Floor_Circular_Light
+    21300060: Wall_Left
+    21300062: Wall_Exit
+    21300064: Wall_Right
+    21300066: Wall_Inner_Bottom_Left
+    21300068: Wall_Inner_Bottom_Right
+    21300070: Floor_Light_Top_Left
     21300072: 16x16_Jerom_CC-BY-SA-3.0_36
     21300074: 16x16_Jerom_CC-BY-SA-3.0_37
-    21300076: 16x16_Jerom_CC-BY-SA-3.0_38
-    21300078: 16x16_Jerom_CC-BY-SA-3.0_39
-    21300080: 16x16_Jerom_CC-BY-SA-3.0_40
-    21300082: 16x16_Jerom_CC-BY-SA-3.0_41
-    21300084: 16x16_Jerom_CC-BY-SA-3.0_42
-    21300086: 16x16_Jerom_CC-BY-SA-3.0_43
-    21300088: 16x16_Jerom_CC-BY-SA-3.0_44
-    21300090: 16x16_Jerom_CC-BY-SA-3.0_45
-    21300092: 16x16_Jerom_CC-BY-SA-3.0_46
+    21300076: Floor_Dark_Top_Left
+    21300078: Floor_Dark_Top_Right
+    21300080: Wall_Lower_Left
+    21300082: Wall_Lower_Door
+    21300084: Wall_Lower_Right
+    21300086: Door_Exit
+    21300088: Wall_Columns
+    21300090: Floor_Light_Bottom_Left
+    21300092: Floor_Light_Bottom_Right
     21300094: 16x16_Jerom_CC-BY-SA-3.0_47
-    21300096: 16x16_Jerom_CC-BY-SA-3.0_48
-    21300098: 16x16_Jerom_CC-BY-SA-3.0_49
+    21300096: Floor_Dark_Bottom_Left
+    21300098: Floor_Dark_Bottom_Right
     21300100: 16x16_Jerom_CC-BY-SA-3.0_50
     21300102: 16x16_Jerom_CC-BY-SA-3.0_51
     21300104: 16x16_Jerom_CC-BY-SA-3.0_52
@@ -330,7 +330,7 @@ TextureImporter:
   buildTargetSettings: []
   spriteSheet:
     sprites:
-    - name: 16x16_Jerom_CC-BY-SA-3.0_0
+    - name: Door_1
       rect:
         serializedVersion: 2
         x: 0
@@ -338,10 +338,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_1
+    - name: Door_2
       rect:
         serializedVersion: 2
         x: 16
@@ -349,10 +349,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_2
+    - name: Door_3
       rect:
         serializedVersion: 2
         x: 32
@@ -360,10 +360,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_3
+    - name: Door_Open_1
       rect:
         serializedVersion: 2
         x: 48
@@ -371,10 +371,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_4
+    - name: Door_Lock_1
       rect:
         serializedVersion: 2
         x: 64
@@ -382,10 +382,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_5
+    - name: Door_Open_2
       rect:
         serializedVersion: 2
         x: 80
@@ -393,10 +393,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_6
+    - name: Door_4
       rect:
         serializedVersion: 2
         x: 96
@@ -404,10 +404,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_7
+    - name: Door_4_Open
       rect:
         serializedVersion: 2
         x: 112
@@ -415,10 +415,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_8
+    - name: Door_Lock_2
       rect:
         serializedVersion: 2
         x: 128
@@ -426,10 +426,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_9
+    - name: Door_Lock_2_Open
       rect:
         serializedVersion: 2
         x: 144
@@ -437,7 +437,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_10
@@ -448,7 +448,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_11
@@ -459,10 +459,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_12
+    - name: Wall_1
       rect:
         serializedVersion: 2
         x: 32
@@ -470,10 +470,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_13
+    - name: Stairs_1
       rect:
         serializedVersion: 2
         x: 48
@@ -481,10 +481,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_14
+    - name: Stairs_2
       rect:
         serializedVersion: 2
         x: 64
@@ -492,10 +492,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_15
+    - name: Floor_1
       rect:
         serializedVersion: 2
         x: 80
@@ -503,10 +503,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_16
+    - name: Stone_Floor1
       rect:
         serializedVersion: 2
         x: 96
@@ -514,10 +514,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_17
+    - name: Stone_Floor_2
       rect:
         serializedVersion: 2
         x: 112
@@ -525,10 +525,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_18
+    - name: Spikes
       rect:
         serializedVersion: 2
         x: 128
@@ -536,10 +536,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_19
+    - name: Floor_Tile
       rect:
         serializedVersion: 2
         x: 144
@@ -547,10 +547,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_20
+    - name: Wall_Upper_Left
       rect:
         serializedVersion: 2
         x: 0
@@ -558,10 +558,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_21
+    - name: Wall_Upper
       rect:
         serializedVersion: 2
         x: 16
@@ -569,10 +569,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_22
+    - name: Wall_Upper_Right
       rect:
         serializedVersion: 2
         x: 32
@@ -580,10 +580,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_23
+    - name: Wall_Inner_Top_Left
       rect:
         serializedVersion: 2
         x: 48
@@ -591,10 +591,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_24
+    - name: Wall_Inner_Top_Right
       rect:
         serializedVersion: 2
         x: 64
@@ -602,10 +602,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_25
+    - name: Floor_Square_Dark
       rect:
         serializedVersion: 2
         x: 80
@@ -613,10 +613,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_26
+    - name: Floor_Square_Light
       rect:
         serializedVersion: 2
         x: 96
@@ -624,10 +624,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_27
+    - name: Floor_2
       rect:
         serializedVersion: 2
         x: 112
@@ -635,10 +635,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_28
+    - name: Floor_Circular_Dark
       rect:
         serializedVersion: 2
         x: 128
@@ -646,10 +646,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_29
+    - name: Floor_Circular_Light
       rect:
         serializedVersion: 2
         x: 144
@@ -657,10 +657,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_30
+    - name: Wall_Left
       rect:
         serializedVersion: 2
         x: 0
@@ -668,10 +668,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_31
+    - name: Wall_Exit
       rect:
         serializedVersion: 2
         x: 16
@@ -679,10 +679,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_32
+    - name: Wall_Right
       rect:
         serializedVersion: 2
         x: 32
@@ -690,10 +690,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_33
+    - name: Wall_Inner_Bottom_Left
       rect:
         serializedVersion: 2
         x: 48
@@ -701,10 +701,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_34
+    - name: Wall_Inner_Bottom_Right
       rect:
         serializedVersion: 2
         x: 64
@@ -712,10 +712,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_35
+    - name: Floor_Light_Top_Left
       rect:
         serializedVersion: 2
         x: 80
@@ -723,7 +723,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_36
@@ -734,7 +734,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_37
@@ -745,21 +745,21 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_38
+    - name: Floor_Dark_Top_Left
       rect:
         serializedVersion: 2
         x: 128
-        y: 384
+        y: 383
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_39
+    - name: Floor_Dark_Top_Right
       rect:
         serializedVersion: 2
         x: 144
@@ -767,10 +767,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_40
+    - name: Wall_Lower_Left
       rect:
         serializedVersion: 2
         x: 0
@@ -778,10 +778,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_41
+    - name: Wall_Lower_Door
       rect:
         serializedVersion: 2
         x: 16
@@ -789,10 +789,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_42
+    - name: Wall_Lower_Right
       rect:
         serializedVersion: 2
         x: 32
@@ -800,10 +800,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_43
+    - name: Door_Exit
       rect:
         serializedVersion: 2
         x: 48
@@ -811,10 +811,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_44
+    - name: Wall_Columns
       rect:
         serializedVersion: 2
         x: 64
@@ -822,10 +822,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_45
+    - name: Floor_Light_Bottom_Left
       rect:
         serializedVersion: 2
         x: 80
@@ -833,10 +833,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_46
+    - name: Floor_Light_Bottom_Right
       rect:
         serializedVersion: 2
         x: 96
@@ -844,7 +844,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_47
@@ -855,10 +855,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_48
+    - name: Floor_Dark_Bottom_Left
       rect:
         serializedVersion: 2
         x: 128
@@ -866,10 +866,10 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_49
+    - name: Floor_Dark_Bottom_Right
       rect:
         serializedVersion: 2
         x: 144
@@ -877,7 +877,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_50
@@ -888,7 +888,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_51
@@ -899,7 +899,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_52
@@ -910,7 +910,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_53
@@ -921,7 +921,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_54
@@ -932,7 +932,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_55
@@ -943,7 +943,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_56
@@ -954,7 +954,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_57
@@ -965,7 +965,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_58
@@ -976,7 +976,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_59
@@ -987,7 +987,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_60
@@ -998,7 +998,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_61
@@ -1009,7 +1009,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_62
@@ -1020,7 +1020,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_63
@@ -1031,7 +1031,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_64
@@ -1042,7 +1042,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_65
@@ -1053,7 +1053,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_66
@@ -1064,7 +1064,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_67
@@ -1075,7 +1075,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_68
@@ -1086,7 +1086,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_69
@@ -1097,7 +1097,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_70
@@ -1108,7 +1108,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_71
@@ -1119,7 +1119,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_72
@@ -1130,7 +1130,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_73
@@ -1141,7 +1141,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_74
@@ -1152,7 +1152,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_75
@@ -1163,7 +1163,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_76
@@ -1174,7 +1174,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_77
@@ -1185,7 +1185,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_78
@@ -1196,7 +1196,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_79
@@ -1207,7 +1207,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_80
@@ -1218,7 +1218,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_81
@@ -1229,7 +1229,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_82
@@ -1240,7 +1240,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_83
@@ -1251,7 +1251,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_84
@@ -1262,7 +1262,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_85
@@ -1273,7 +1273,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_86
@@ -1284,7 +1284,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_87
@@ -1295,7 +1295,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_88
@@ -1306,7 +1306,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_89
@@ -1317,7 +1317,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_90
@@ -1328,7 +1328,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_91
@@ -1339,7 +1339,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_92
@@ -1350,7 +1350,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_93
@@ -1361,7 +1361,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_94
@@ -1372,7 +1372,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_95
@@ -1383,7 +1383,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_96
@@ -1394,7 +1394,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_97
@@ -1405,7 +1405,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_98
@@ -1416,7 +1416,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_99
@@ -1427,7 +1427,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_100
@@ -1438,7 +1438,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_101
@@ -1449,7 +1449,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_102
@@ -1460,7 +1460,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_103
@@ -1471,7 +1471,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_104
@@ -1482,7 +1482,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_105
@@ -1493,7 +1493,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_106
@@ -1504,7 +1504,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_107
@@ -1515,7 +1515,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_108
@@ -1526,7 +1526,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_109
@@ -1537,7 +1537,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_110
@@ -1548,7 +1548,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_111
@@ -1559,7 +1559,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_112
@@ -1570,7 +1570,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_113
@@ -1581,7 +1581,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_114
@@ -1592,7 +1592,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_115
@@ -1603,7 +1603,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_116
@@ -1614,7 +1614,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_117
@@ -1625,7 +1625,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_118
@@ -1636,7 +1636,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_119
@@ -1647,7 +1647,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_120
@@ -1658,7 +1658,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_121
@@ -1669,7 +1669,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_122
@@ -1680,7 +1680,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_123
@@ -1691,7 +1691,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_124
@@ -1702,7 +1702,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_125
@@ -1713,7 +1713,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_126
@@ -1724,7 +1724,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_127
@@ -1735,7 +1735,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_128
@@ -1746,7 +1746,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_129
@@ -1757,7 +1757,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_130
@@ -1768,7 +1768,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_131
@@ -1779,7 +1779,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_132
@@ -1790,7 +1790,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_133
@@ -1801,7 +1801,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_134
@@ -1812,7 +1812,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_135
@@ -1823,7 +1823,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_136
@@ -1834,7 +1834,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_137
@@ -1845,7 +1845,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_138
@@ -1856,7 +1856,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_139
@@ -1867,7 +1867,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_140
@@ -1878,7 +1878,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_141
@@ -1889,7 +1889,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_142
@@ -1900,7 +1900,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_143
@@ -1911,7 +1911,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_144
@@ -1922,7 +1922,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_145
@@ -1933,7 +1933,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_146
@@ -1944,7 +1944,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_147
@@ -1955,7 +1955,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_148
@@ -1966,7 +1966,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_149
@@ -1977,7 +1977,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_150
@@ -1988,7 +1988,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_151
@@ -1999,7 +1999,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_152
@@ -2010,7 +2010,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_153
@@ -2021,7 +2021,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_154
@@ -2032,7 +2032,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_155
@@ -2043,7 +2043,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_156
@@ -2054,7 +2054,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_157
@@ -2065,7 +2065,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_158
@@ -2076,7 +2076,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_159
@@ -2087,7 +2087,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_160
@@ -2098,7 +2098,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_161
@@ -2109,7 +2109,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_162
@@ -2120,7 +2120,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_163
@@ -2131,7 +2131,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_164
@@ -2142,7 +2142,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_165
@@ -2153,7 +2153,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_166
@@ -2164,7 +2164,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_167
@@ -2175,7 +2175,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_168
@@ -2186,7 +2186,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_169
@@ -2197,7 +2197,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_170
@@ -2208,7 +2208,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_171
@@ -2219,7 +2219,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_172
@@ -2230,7 +2230,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_173
@@ -2241,7 +2241,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_174
@@ -2252,7 +2252,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_175
@@ -2263,7 +2263,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_176
@@ -2274,7 +2274,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_177
@@ -2285,7 +2285,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_178
@@ -2296,7 +2296,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_179
@@ -2307,7 +2307,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_180
@@ -2318,7 +2318,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_181
@@ -2329,7 +2329,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_182
@@ -2340,7 +2340,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_183
@@ -2351,7 +2351,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_184
@@ -2362,7 +2362,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_185
@@ -2373,7 +2373,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_186
@@ -2384,7 +2384,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_187
@@ -2395,7 +2395,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_188
@@ -2406,7 +2406,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_189
@@ -2417,7 +2417,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_190
@@ -2428,7 +2428,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_191
@@ -2439,7 +2439,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_192
@@ -2450,7 +2450,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_193
@@ -2461,7 +2461,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_194
@@ -2472,7 +2472,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_195
@@ -2483,7 +2483,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_196
@@ -2494,7 +2494,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_197
@@ -2505,7 +2505,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_198
@@ -2516,7 +2516,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_199
@@ -2527,7 +2527,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_200
@@ -2538,7 +2538,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_201
@@ -2549,7 +2549,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_202
@@ -2560,7 +2560,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_203
@@ -2571,7 +2571,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_204
@@ -2582,7 +2582,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_205
@@ -2593,7 +2593,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_206
@@ -2604,7 +2604,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_207
@@ -2615,7 +2615,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_208
@@ -2626,7 +2626,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_209
@@ -2637,7 +2637,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_210
@@ -2648,7 +2648,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_211
@@ -2659,7 +2659,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_212
@@ -2670,7 +2670,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_213
@@ -2681,7 +2681,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_214
@@ -2692,7 +2692,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_215
@@ -2703,7 +2703,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_216
@@ -2714,7 +2714,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_217
@@ -2725,7 +2725,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_218
@@ -2736,7 +2736,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_219
@@ -2747,7 +2747,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_220
@@ -2758,7 +2758,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_221
@@ -2769,7 +2769,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_222
@@ -2780,7 +2780,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_223
@@ -2791,7 +2791,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_224
@@ -2802,7 +2802,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_225
@@ -2813,7 +2813,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_226
@@ -2824,7 +2824,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_227
@@ -2835,7 +2835,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_228
@@ -2846,7 +2846,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_229
@@ -2857,7 +2857,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_230
@@ -2868,7 +2868,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_231
@@ -2879,7 +2879,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_232
@@ -2890,7 +2890,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_233
@@ -2901,7 +2901,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_234
@@ -2912,7 +2912,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_235
@@ -2923,7 +2923,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_236
@@ -2934,7 +2934,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_237
@@ -2945,7 +2945,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_238
@@ -2956,7 +2956,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_239
@@ -2967,7 +2967,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_240
@@ -2978,7 +2978,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_241
@@ -2989,7 +2989,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_242
@@ -3000,7 +3000,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_243
@@ -3011,7 +3011,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_244
@@ -3022,7 +3022,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_245
@@ -3033,7 +3033,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_246
@@ -3044,7 +3044,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_247
@@ -3055,7 +3055,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_248
@@ -3066,7 +3066,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_249
@@ -3077,7 +3077,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_250
@@ -3088,7 +3088,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_251
@@ -3099,7 +3099,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_252
@@ -3110,7 +3110,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_253
@@ -3121,7 +3121,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_254
@@ -3132,7 +3132,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_255
@@ -3143,7 +3143,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_256
@@ -3154,7 +3154,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_257
@@ -3165,7 +3165,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_258
@@ -3176,7 +3176,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_259
@@ -3187,7 +3187,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_260
@@ -3198,7 +3198,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_261
@@ -3209,7 +3209,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_262
@@ -3220,7 +3220,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_263
@@ -3231,7 +3231,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_264
@@ -3242,7 +3242,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_265
@@ -3253,7 +3253,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_266
@@ -3264,7 +3264,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_267
@@ -3275,7 +3275,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_268
@@ -3286,7 +3286,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_269
@@ -3297,7 +3297,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_270
@@ -3308,7 +3308,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_271
@@ -3319,7 +3319,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_272
@@ -3330,7 +3330,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_273
@@ -3341,7 +3341,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_274
@@ -3352,7 +3352,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_275
@@ -3363,7 +3363,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_276
@@ -3374,7 +3374,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_277
@@ -3385,7 +3385,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_278
@@ -3396,7 +3396,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     - name: 16x16_Jerom_CC-BY-SA-3.0_279
@@ -3407,7 +3407,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
     outline: []
