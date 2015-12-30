@@ -6,8 +6,10 @@ public class BoardManager : MonoBehaviour {
 
   private List<Vector3> gridPositions = new List<Vector3>();
 
-  private int columns = 10;
-  private int rows = 9;
+  // Either top or bottom row will be UI for game
+  //   so game board is technically 9x9
+  private int columns = 9;
+  private int rows = 10;
 
   void InitializeList() {
     gridPositions.Clear();
