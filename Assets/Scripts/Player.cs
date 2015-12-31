@@ -10,10 +10,10 @@ public class Player : MonoBehaviour {
   void Start() {
     rb = gameObject.GetComponent<Rigidbody2D>();
   }
-	
-	void Update () {
+
+  void Update () {
     Move ();
-	}
+  }
 
   void OnTriggerEnter2D(Collider2D coll) {
     rb.velocity = Vector2.zero;
