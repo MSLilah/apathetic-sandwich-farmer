@@ -102,6 +102,8 @@ public class BoardManager : MonoBehaviour {
 
         instObj = DetermineTile(i, j);
 
+        // TODO: I think the spacing bug can be fixed here
+        //  Potentially transform i and j here
         GameObject instance = Instantiate(instObj,
                                 new Vector3(i, j, 0f), Quaternion.identity) as GameObject;
         instance.transform.SetParent(boardTransform);
