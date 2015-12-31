@@ -10,10 +10,18 @@ public class Player : MonoBehaviour {
   void Start() {
     rb = gameObject.GetComponent<Rigidbody2D>();
   }
-	// Update is called once per frame
+	
 	void Update () {
     Move ();
 	}
+
+  void OnTriggerEnter2D(Collider2D coll) {
+    rb.velocity = Vector2.zero;
+  }
+
+  void OnTriggerStay2D(Collider2D coll) {
+    rb.velocity = Vector2.zero;
+  }
 
   private void Move() {
     float velocityX = Input.GetAxisRaw ("Horizontal") * playerSpeed;
