@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 3ff57af6d057044d293d9d4d2f957d14
-timeCreated: 1451542327
+timeCreated: 1451542417
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -233,7 +233,7 @@ TextureImporter:
     21300452: 16x16_Jerom_CC-BY-SA-3.0_226
     21300454: 16x16_Jerom_CC-BY-SA-3.0_227
     21300456: 16x16_Jerom_CC-BY-SA-3.0_228
-    21300458: 16x16_Jerom_CC-BY-SA-3.0_229
+    21300458: Dragon
     21300460: 16x16_Jerom_CC-BY-SA-3.0_230
     21300462: 16x16_Jerom_CC-BY-SA-3.0_231
     21300464: 16x16_Jerom_CC-BY-SA-3.0_232
@@ -2849,7 +2849,7 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_229
+    - name: Dragon
       rect:
         serializedVersion: 2
         x: 144
