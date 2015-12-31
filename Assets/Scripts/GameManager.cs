@@ -10,10 +10,13 @@ public class GameManager : MonoBehaviour {
   }
 
   void Update() {
-
   }
 
   void GameOver() {
+  }
 
+  void Awake() {
+    boardManager = GetComponent<BoardManager>();
+    InitGame();
   }
 }

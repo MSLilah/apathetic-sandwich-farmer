@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 3ff57af6d057044d293d9d4d2f957d14
-timeCreated: 1451519426
+timeCreated: 1451521534
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -25,7 +25,7 @@ TextureImporter:
     21300036: Spikes
     21300038: Floor_Tile
     21300040: Wall_Upper_Left
-    21300042: Wall_Upper
+    21300042: Wall
     21300044: Wall_Upper_Right
     21300046: Wall_Inner_Top_Left
     21300048: Wall_Inner_Top_Right
@@ -561,7 +561,7 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: Wall_Upper
+    - name: Wall
       rect:
         serializedVersion: 2
         x: 16
