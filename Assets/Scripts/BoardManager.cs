@@ -38,7 +38,7 @@ public class BoardManager : MonoBehaviour {
     }
   }
 
-  GameObject DetermineTile(int i, int j) {
+  GameObject GetTileForDungeon(int i, int j) {
     if (i == 0 && j == 0) {
       // wall lower left
       return WallLowerLeft;
@@ -90,7 +90,7 @@ public class BoardManager : MonoBehaviour {
       for (int j = 0; j <= rows; j++) {
         GameObject instObj;
 
-        instObj = DetermineTile(i, j);
+        instObj = GetTileForDungeon(i, j);
 
         GameObject instance = Instantiate(instObj,
                                 new Vector3(i, j, 0f), Quaternion.identity) as GameObject;
