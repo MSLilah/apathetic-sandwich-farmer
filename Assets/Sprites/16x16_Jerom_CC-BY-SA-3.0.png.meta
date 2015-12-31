@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 3ff57af6d057044d293d9d4d2f957d14
-timeCreated: 1451521534
+timeCreated: 1451542327
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -194,7 +194,7 @@ TextureImporter:
     21300374: 16x16_Jerom_CC-BY-SA-3.0_187
     21300376: 16x16_Jerom_CC-BY-SA-3.0_188
     21300378: 16x16_Jerom_CC-BY-SA-3.0_189
-    21300380: 16x16_Jerom_CC-BY-SA-3.0_190
+    21300380: Player
     21300382: 16x16_Jerom_CC-BY-SA-3.0_191
     21300384: 16x16_Jerom_CC-BY-SA-3.0_192
     21300386: 16x16_Jerom_CC-BY-SA-3.0_193
@@ -2420,7 +2420,7 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_190
+    - name: Player
       rect:
         serializedVersion: 2
         x: 0
