@@ -1,9 +1,12 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class GameManager : MonoBehaviour {
 
   private BoardManager boardManager;
+
+  private List<Enemy> enemies;
 
   void InitGame() {
     boardManager.GenerateBoard();
@@ -19,4 +22,5 @@ public class GameManager : MonoBehaviour {
     boardManager = GetComponent<BoardManager>();
     InitGame();
   }
+
 }

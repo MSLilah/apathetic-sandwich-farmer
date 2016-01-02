@@ -8,7 +8,6 @@ public abstract class Actor : MonoBehaviour {
   // Use this for initialization
   protected virtual void Start () {
     rb = gameObject.GetComponent<Rigidbody2D>();
-
   }
   // Update is called once per frame
   void Update () {
@@ -26,5 +25,8 @@ public abstract class Actor : MonoBehaviour {
 
   protected virtual void Move(float velocityX, float velocityY) {
     rb.velocity = new Vector2 (velocityX, velocityY);
+  }
+
+  protected virtual void Attack() {
   }
 }

@@ -5,7 +5,7 @@ public class Player : Actor {
 
   public float playerSpeed;
 
-  void Start() {
+  protected override void Start() {
     base.Start();
   }
 

@@ -4,7 +4,15 @@ using Random = UnityEngine.Random;
 
 public class Enemy : Actor {
 
-  void Start() {
+  public float walkSpeed = 5.0f;
+
+  private Vector3 walkAmount;
+
+  private Transform player;
+
+  protected override void Start() {
+    player = GameObject.FindGameObjectWithTag("Player").transform;
+
     base.Start();
   }
 
@@ -13,10 +21,8 @@ public class Enemy : Actor {
   }
 
   private void Move() {
-    float locationX = Random.Range(0, 9);
-    float locationY = Random.Range(0, 8);
-    Vector2 target = new Vector2(4,4);
+    Vector3 playerTarget = player.position;
 
-    //transform.position = Vector2.MoveTowards(new Vector2(transform.position.x, transform.position.y), target, 3 * Time.deltaTime);
+    transform.position = Vector3.MoveTowards(new Vector3(transform.position.x, transform.position.y, 0f), playerTarget, 3 * Time.deltaTime);
   }
 }
