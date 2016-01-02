@@ -2,24 +2,14 @@
 using System.Collections;
 using Random = UnityEngine.Random;
 
-public class Enemy : MonoBehaviour {
-
-  private Rigidbody2D rb;
+public class Enemy : Actor {
 
   void Start() {
-    rb = gameObject.GetComponent<Rigidbody2D>();
+    base.Start();
   }
 
   void Update() {
     Move();
-  }
-
-  void OnTriggerEnter2D(Collider2D coll) {
-    rb.velocity = Vector2.zero;
-  }
-
-  void OnTriggerStay2D(Collider2D coll) {
-    rb.velocity = Vector2.zero;
   }
 
   private void Move() {
