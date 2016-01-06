@@ -100,6 +100,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa92cc513bda74ce3b497228674a5a1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  walkSpeed: 5
+--- !u!1 &169506457 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 178050, guid: 03ab92efb9eadae4398e82da86d53c30, type: 2}
+  m_PrefabInternal: {fileID: 1351136720}
+--- !u!95 &169506458
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 169506457}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f8460b20c383b495fbf55e80e3416527, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &286363531
 GameObject:
   m_ObjectHideFlags: 0
@@ -169,11 +191,11 @@ Prefab:
     m_Modifications:
     - target: {fileID: 489022, guid: 03ab92efb9eadae4398e82da86d53c30, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 4.0106297
+      value: 2.19
       objectReference: {fileID: 0}
     - target: {fileID: 489022, guid: 03ab92efb9eadae4398e82da86d53c30, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 4.9444633
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 489022, guid: 03ab92efb9eadae4398e82da86d53c30, type: 2}
       propertyPath: m_LocalPosition.z
@@ -203,6 +225,11 @@ Prefab:
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 21208552, guid: 03ab92efb9eadae4398e82da86d53c30, type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300004, guid: f475765c72d6743f4b2b321e327b2858,
+        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 03ab92efb9eadae4398e82da86d53c30, type: 2}
   m_IsPrefabParent: 0
