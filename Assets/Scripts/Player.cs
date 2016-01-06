@@ -5,7 +5,10 @@ public class Player : Actor {
 
   public float playerSpeed;
 
+  public float playerHealth;
+
   protected override void Start() {
+    playerHealth = 4.0f;
     base.Start();
   }
 

@@ -26,6 +26,12 @@ public class BoardManager : MonoBehaviour {
   public GameObject WallLower;
   public GameObject Floor1;
 
+  public GameObject HeartEmpty;
+  public GameObject Heart1;
+  public GameObject Heart2;
+  public GameObject Heart3;
+  public GameObject Heart4;
+
   // For random things that go on the gameboard
   // that aren't tiles
   void InitializeList() {
@@ -97,7 +103,6 @@ public class BoardManager : MonoBehaviour {
         instance.transform.SetParent(boardTransform);
       }
     }
-
   }
 
   public void GenerateBoard() {

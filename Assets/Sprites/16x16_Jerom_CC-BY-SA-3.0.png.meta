@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 3ff57af6d057044d293d9d4d2f957d14
-timeCreated: 1451542417
+timeCreated: 1452054527
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -254,11 +254,11 @@ TextureImporter:
     21300494: 16x16_Jerom_CC-BY-SA-3.0_247
     21300496: 16x16_Jerom_CC-BY-SA-3.0_248
     21300498: 16x16_Jerom_CC-BY-SA-3.0_249
-    21300500: 16x16_Jerom_CC-BY-SA-3.0_250
-    21300502: 16x16_Jerom_CC-BY-SA-3.0_251
-    21300504: 16x16_Jerom_CC-BY-SA-3.0_252
-    21300506: 16x16_Jerom_CC-BY-SA-3.0_253
-    21300508: 16x16_Jerom_CC-BY-SA-3.0_254
+    21300500: Heart-4
+    21300502: Heart-3
+    21300504: Heart-2
+    21300506: Heart-1
+    21300508: Heart-Empty
     21300510: 16x16_Jerom_CC-BY-SA-3.0_255
     21300512: 16x16_Jerom_CC-BY-SA-3.0_256
     21300514: 16x16_Jerom_CC-BY-SA-3.0_257
@@ -3080,7 +3080,7 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_250
+    - name: Heart-4
       rect:
         serializedVersion: 2
         x: 0
@@ -3091,7 +3091,7 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_251
+    - name: Heart-3
       rect:
         serializedVersion: 2
         x: 16
@@ -3102,7 +3102,7 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_252
+    - name: Heart-2
       rect:
         serializedVersion: 2
         x: 32
@@ -3113,7 +3113,7 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_253
+    - name: Heart-1
       rect:
         serializedVersion: 2
         x: 48
@@ -3124,7 +3124,7 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: 16x16_Jerom_CC-BY-SA-3.0_254
+    - name: Heart-Empty
       rect:
         serializedVersion: 2
         x: 64
